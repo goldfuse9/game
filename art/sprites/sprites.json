@@ -1,0 +1,160 @@
+{
+ "imp": {
+  "fw": 32,
+  "fh": 35,
+  "anims": {
+   "front_idle": {
+    "row": 0,
+    "frames": 4
+   },
+   "front_walk": {
+    "row": 1,
+    "frames": 4
+   },
+   "back_idle": {
+    "row": 2,
+    "frames": 4
+   },
+   "back_walk": {
+    "row": 3,
+    "frames": 4
+   },
+   "side_idle": {
+    "row": 4,
+    "frames": 4
+   },
+   "side_walk": {
+    "row": 5,
+    "frames": 4
+   },
+   "front_cast": {
+    "row": 6,
+    "frames": 4
+   },
+   "side_slash": {
+    "row": 7,
+    "frames": 3
+   }
+  }
+ },
+ "marine_recruit": {
+  "fw": 32,
+  "fh": 35,
+  "anims": {
+   "front_walk": {
+    "row": 0,
+    "frames": 4
+   },
+   "back_walk": {
+    "row": 1,
+    "frames": 4
+   },
+   "side_walk": {
+    "row": 2,
+    "frames": 4
+   },
+   "front_shoot": {
+    "row": 3,
+    "frames": 1
+   }
+  }
+ },
+ "marine_heavy": {
+  "fw": 32,
+  "fh": 35,
+  "anims": {
+   "front_walk": {
+    "row": 0,
+    "frames": 4
+   },
+   "back_walk": {
+    "row": 1,
+    "frames": 4
+   },
+   "side_walk": {
+    "row": 2,
+    "frames": 4
+   },
+   "front_shoot": {
+    "row": 3,
+    "frames": 1
+   }
+  }
+ },
+ "marine_medic": {
+  "fw": 32,
+  "fh": 35,
+  "anims": {
+   "front_walk": {
+    "row": 0,
+    "frames": 4
+   },
+   "back_walk": {
+    "row": 1,
+    "frames": 4
+   },
+   "side_walk": {
+    "row": 2,
+    "frames": 4
+   },
+   "front_shoot": {
+    "row": 3,
+    "frames": 1
+   }
+  }
+ },
+ "marine_elite": {
+  "fw": 32,
+  "fh": 35,
+  "anims": {
+   "front_walk": {
+    "row": 0,
+    "frames": 4
+   },
+   "back_walk": {
+    "row": 1,
+    "frames": 4
+   },
+   "side_walk": {
+    "row": 2,
+    "frames": 4
+   },
+   "front_shoot": {
+    "row": 3,
+    "frames": 1
+   }
+  }
+ },
+ "marine_runner": {
+  "fw": 32,
+  "fh": 35,
+  "anims": {
+   "front_walk": {
+    "row": 0,
+    "frames": 4
+   },
+   "back_walk": {
+    "row": 1,
+    "frames": 4
+   },
+   "side_walk": {
+    "row": 2,
+    "frames": 4
+   },
+   "front_shoot": {
+    "row": 3,
+    "frames": 1
+   }
+  }
+ },
+ "hero": {
+  "fw": 48,
+  "fh": 52,
+  "anims": {
+   "front_walk": {
+    "row": 0,
+    "frames": 2
+   }
+  }
+ }
+}

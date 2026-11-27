@@ -1,0 +1,20 @@
+{
+  "name": "imp-hra",
+  "version": "0.3.0",
+  "description": "IMP 2 – Temné patro. Pixel-art roguelite, kde hraješ za impa v pekle.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder --win portable"
+  },
+  "devDependencies": {
+    "electron": "^45.5.0",
+    "electron-builder": "^26.18.0"
+  },
+  "build": {
+    "appId": "cz.imp.hra",
+    "productName": "IMP 2",
+    "files": ["main.js", "game/**/*"],
+    "win": { "target": "portable" }
+  }
+}
